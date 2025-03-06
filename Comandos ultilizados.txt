@@ -1,0 +1,13 @@
+Comandos ultilizados
+
+git init
+
+git add .
+
+git commit -m "Projeto inicial"
+
+git remote add origin https://github.com/Gustavo-Castro28/atividade1.git
+
+git push -u origin main
+
+link: https://github.com/Gustavo-Castro28/atividade1.git
